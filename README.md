@@ -3,7 +3,7 @@ Azam Ahmad Abbasi's data analysis portfolio
 
 Here is the list of Data Analysis projects I have done.
 
-# 1. [Published research Paper](https://github.com/Azamabbasi/Published_Research_Paper)
+# 1. [Published Research Paper](https://github.com/Azamabbasi/Published_Research_Paper)
      
 Financial Research Paper published in a research journal, written by me as my final year project for my Bachelor's Degree
 
