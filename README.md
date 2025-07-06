@@ -3,7 +3,7 @@ Azam Ahmad Abbasi's data analysis portfolio
 
 Here is the list of Data Analysis projects I have done.
 
- 1. Published research Paper - Financial modelling - lead-lag relation
+ 1. [Published research Paper](https://github.com/Azamabbasi/Published_Research_Paper)
     [Enter Details]
  3. Sentiment Analysis
     [Enter Details]
