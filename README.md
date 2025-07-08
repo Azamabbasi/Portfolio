@@ -46,6 +46,12 @@ Libraries used:
  6. smtplib
  7. time
 
-# 4. [Movie Recommendation System](https://github.com/Azamabbasi/Movie_Recommendation)
+
+# 4. [Mass Email to HR](https://github.com/Azamabbasi/Mass_email)
+
+I created this program to help me send my resume and a cover email to a list of HR emails that I have compiled via apollo.io. I used the same program for both my job and marketing emails, using a different list.
+
+
+# 5. [Movie Recommendation System](https://github.com/Azamabbasi/Movie_Recommendation)
 
 Analyzing 40k + movies and their ratings by users. Creating a recommendation for movies based on liking one movie, the program will recommend a list of 5 movies that you might like. This Project is still in process and will be soon completed.
